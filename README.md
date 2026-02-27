@@ -1,1 +1,1 @@
-A confession webpage created by Gemini
+A Confessing-love webpage created by Gemini
